@@ -2,6 +2,6 @@ HI! I AM PRISHA!
 
 I'm a first-year undergraduate student at KIIT University and I've been majoring in biotechnology.
 
-Although I'm a newbie my interests include Machine Learning, Bioinformatics, and Data Science.
+My interests include Bioinformatics, Computational Biology, and Data Science.
 
-Languages known are Python (and many more to come).
+Languages known are Python, PERL, C and Linux (+ many more to come).
