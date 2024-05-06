@@ -6,8 +6,6 @@ I'm a second-year undergraduate student at KIIT University and I've been majorin
 
 My interests include Bioinformatics, Computational Biology, and Data Science.
 
-Languages Known: Python, R, PERL, C, Linux
-
 Skills:
 1. Python
    A. NumPy
