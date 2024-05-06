@@ -7,7 +7,7 @@ I'm a second-year undergraduate student at KIIT University and I've been majorin
 My interests include Bioinformatics, Computational Biology, and Data Science.
 
 Skills:
-1. Python\n A. NumPy\n B. Pandas\n C. Matplotlib\n D. Seaborn\n E. Sci-Kit Learn\n
+1. Python - NumPy, Pandas, Matplotlib, Seaborn, Sci-Kit Learn\n
 2. R
 3. PERL
 4. C
